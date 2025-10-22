@@ -1,5 +1,5 @@
-A=float(input("Divisor de la operación"))
-B=float(input("Dividendo de la operación"))
+A=int(input("Divisor de la operación"))
+B=int(input("Dividendo de la operación"))
 
 Cociente=B//A
 Resto=B%A
